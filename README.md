@@ -14,7 +14,7 @@ now from the server or client text can be sent.
 
 Server Code
 # Program to accept client request
-# Author 
+ 
 
 import socket
 
