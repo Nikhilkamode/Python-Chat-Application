@@ -14,7 +14,7 @@ now from the server or client text can be sent.
 
 Server Code
 # Program to accept client request
-# Author @inforkgodara
+# Author 
 
 import socket
 
@@ -43,7 +43,7 @@ while 1:
 
     Client Code
     # Program to send request to the server
-# Author @inforkgodara
+
 
 import socket
 
